@@ -1,14 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: oktay
- * Date: 08.11.2017
- * Time: 11:30
- */
+namespace Oktay\Project;
 
-namespace HelloWorld;
-
-class SayHello
+class Hello
 {
     public static function world()
     {
