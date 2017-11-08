@@ -14,4 +14,7 @@ class SayHello
     {
         return 'Hello World, Composer!';
     }
+    public static function output(){
+        return 'bla bla';
+    }
 }
