@@ -17,4 +17,7 @@ class SayHello
     public static function output(){
         return 'bla bla';
     }
+    public static function output2(){
+        return 'bla bla';
+    }
 }
